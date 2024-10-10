@@ -28,7 +28,7 @@
 
 ## Demo
 
-***A demo that use MCG to generate a configuration for the ***M***ulti-function network tool is available at 👉 [https://github.com/user-attachments/assets/20f69597-f637-4198-86c9-b11a1a520ed3](https://github.com/user-attachments/assets/20f69597-f637-4198-86c9-b11a1a520ed3). 👈***
+***A demo that use MCG to generate a configuration for the ***M***ulti-function network tool is available at 👉 [https://github.com/user-attachments/assets/20f69597-f637-4198-86c9-b11a1a520ed3](https://github.com/user-attachments/assets/20f69597-f637-4198-86c9-b11a1a520ed3) 👈.***
 
 ## Quick Start
 
