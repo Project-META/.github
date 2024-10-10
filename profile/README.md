@@ -87,7 +87,7 @@ Change the `ICON_SET_URL` constant to use a different icon set.
 Modify the `services` array to add or remove services:
 
 - `name`: Service name.
-- `alias`: When the rule set file name is inconsistent with the name, it must be set to the rule set file name.
+- `alias`: Must be set to the rule set file name when the rule set file name is inconsistent with the name, it must be set to the rule set file name
 - `icon`: URL of the service icon.
 
 ### 3. **Locations**
