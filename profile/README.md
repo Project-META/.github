@@ -2,7 +2,7 @@
 
 ## Overview
 
-***M***CG is a JavaScript-based project that simplifies and optimizes the configuration of the ***M***ulti-function network tool—a cross-platform, rule-based utility for managing network and application traffic. It provides extensive support for advanced features and custom configurations.
+***M***CG is a JavaScript-based project that simplifies and optimizes the configuration of the ***M***ulti-function network tool — a cross-platform, rule-based utility for managing network and application traffic. It provides extensive support for advanced features and custom configurations.
 
 ## Key Features
 
@@ -59,8 +59,8 @@ Start with a valid ***M***ulti-function network tool configuration file containi
   3. In "Subscription Management," select the subscription to modify, and set the MCG script as the override.
   
 - **For Other Clients (e.g., C.V.R.)**:
-  1. Navigate to the configuration page.
-  2. Add the MCG script content into the configuration editor.
+  1. Navigate to the "Subscription" page.
+  2. Add the MCG script content into the "Global Extended Script" editor.
   3. Save and enable the script.
 
 ### 3. Apply and Update Configuration
