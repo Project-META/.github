@@ -133,8 +133,8 @@ For detailed documentation, refer to the official ***M***ulti-function network t
 
 ## Disclaimer
 
-1. This repository is strictly for educational and research purposes.
-2. Use at your own risk. The repository assumes no responsibility for potential issues.
+1. This project is strictly for educational and research purposes.
+2. Use at your own risk. The project assumes no responsibility for potential issues.
 3. No guarantee of accuracy, completeness, or reliability.
 4. Not liable for data loss or damages.
 5. Ensure compliance with relevant licenses and legal regulations.
@@ -146,4 +146,4 @@ For detailed documentation, refer to the official ***M***ulti-function network t
 
 Copyright &copy; 2024 Project MCG. All rights reserved.
 
-Licensed under the [GPL-3.0](https://github.com/xixu-me/MCG/blob/main/LICENSE) license.  
+Licensed under the [GPL-3.0](https://github.com/Project-MCG/MCG/blob/main/LICENSE) license.  
