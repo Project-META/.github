@@ -103,7 +103,7 @@ Customize the `locations` array to define geographical locations:
 Adjust `generalConfig` settings like:
 
 - `allow-lan`: Set to `true` for LAN access.
-- `log-level`: Set logging level (`info`, `debug`).
+- `log-level`: Set logging level (`silent`, `error`, `warning`, `info`, `debug`).
 - `ipv6`: Enable/disable IPv6 support.
 
 ### 5. **DNS Settings**
