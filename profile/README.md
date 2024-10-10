@@ -2,7 +2,7 @@
 
 ## Overview
 
-**MCG** is a JavaScript-based project that simplifies and optimizes the configuration of the ***M***ulti-function network tool—a cross-platform, rule-based utility for managing network and application traffic. It provides extensive support for advanced features and custom configurations.
+***M***CG is a JavaScript-based project that simplifies and optimizes the configuration of the ***M***ulti-function network tool—a cross-platform, rule-based utility for managing network and application traffic. It provides extensive support for advanced features and custom configurations.
 
 ## Key Features
 
