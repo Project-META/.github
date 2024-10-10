@@ -1,4 +1,4 @@
-# MCG - MCG is for Configuration Generation
+# MCG - MCG: Configuration Generator
 
 ## Overview
 
