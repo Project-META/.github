@@ -34,12 +34,14 @@ A demo that use MCG to generate a configuration for the ***M***ulti-function net
 
 Choose one of the following URLs to import the MCG script:
 
-| Source                    | URL |
+| Source | URL |
 | ------------------------- | --- |
-| **GitHub Raw**            | [https://raw.githubusercontent.com/Project-MCG/MCG/refs/heads/main/script.js](https://raw.githubusercontent.com/Project-MCG/MCG/refs/heads/main/script.js) |
-| **jsDelivr**              | [https://cdn.jsdelivr.net/gh/Project-MCG/MCG@main/script.js](https://cdn.jsdelivr.net/gh/Project-MCG/MCG@main/script.js) |
-| **jsDelivr on Cloudflare**| [https://testingcf.jsdelivr.net/gh/Project-MCG/MCG@main/script.js](https://testingcf.jsdelivr.net/gh/Project-MCG/MCG@main/script.js) |
-| **GitHub Proxy**          | [https://ghp.ci/https://raw.githubusercontent.com/Project-MCG/MCG/refs/heads/main/script.js](https://ghp.ci/https://raw.githubusercontent.com/Project-MCG/MCG/refs/heads/main/script.js) |
+| **GitHub Raw** | [https://raw.githubusercontent.com/Project-MCG/MCG/refs/heads/main/script.js](https://raw.githubusercontent.com/Project-MCG/MCG/refs/heads/main/script.js) |
+| **Xi Xu's Proxy Everything** | [https://proxy.xi-xu.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FProject-MCG%2FMCG%2Frefs%2Fheads%2Fmain%2Fscript.js](https://proxy.xi-xu.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FProject-MCG%2FMCG%2Frefs%2Fheads%2Fmain%2Fscript.js) |
+| **Mirror of Xi Xu's Proxy Everything** | [https://proxy.xixu.cloudns.ch/?url=https%3A%2F%2Fraw.githubusercontent.com%2FProject-MCG%2FMCG%2Frefs%2Fheads%2Fmain%2Fscript.js](https://proxy.xixu.cloudns.ch/?url=https%3A%2F%2Fraw.githubusercontent.com%2FProject-MCG%2FMCG%2Frefs%2Fheads%2Fmain%2Fscript.js) |
+| **jsDelivr** | [https://cdn.jsdelivr.net/gh/Project-MCG/MCG@main/script.js](https://cdn.jsdelivr.net/gh/Project-MCG/MCG@main/script.js) |
+| **jsDelivr on Cloudflare** | [https://testingcf.jsdelivr.net/gh/Project-MCG/MCG@main/script.js](https://testingcf.jsdelivr.net/gh/Project-MCG/MCG@main/script.js) |
+| **GitHub Proxy** | [https://ghp.ci/https://raw.githubusercontent.com/Project-MCG/MCG/refs/heads/main/script.js](https://ghp.ci/https://raw.githubusercontent.com/Project-MCG/MCG/refs/heads/main/script.js) |
 
 ## Usage Guide
 
