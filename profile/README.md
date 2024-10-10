@@ -24,7 +24,7 @@
 - **Customizable TUN Mode**: Configure TUN mode for improved compatibility and performance.
 - **Privacy and Ad-Blocking**: Integrated rules for blocking ads and trackers.
 - **Automatic Updates**: Enable auto-updates for GeoIP and GeoSite data.
-- **Compatibility**: Supports the ***M***ulti-functional network tool clients, enhancing standard configurations.
+- **Compatibility**: Supports the ***M***ulti-functional network tool clients, enhancing normal configurations.
 
 ## Demo
 
