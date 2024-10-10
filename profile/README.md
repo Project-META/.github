@@ -36,10 +36,10 @@ Choose one of the following URLs to import the MCG script:
 
 | Source                    | URL |
 | ------------------------- | --- |
-| **GitHub Raw**            | [https://raw.githubusercontent.com/xixu-me/MCG/refs/heads/main/script.js](https://raw.githubusercontent.com/xixu-me/MCG/refs/heads/main/script.js) |
-| **jsDelivr**              | [https://cdn.jsdelivr.net/gh/xixu-me/MCG@main/script.js](https://cdn.jsdelivr.net/gh/xixu-me/MCG@main/script.js) |
-| **jsDelivr on Cloudflare**| [https://testingcf.jsdelivr.net/gh/xixu-me/MCG@main/script.js](https://testingcf.jsdelivr.net/gh/xixu-me/MCG@main/script.js) |
-| **GitHub Proxy**          | [https://ghp.ci/https://raw.githubusercontent.com/xixu-me/MCG/refs/heads/main/script.js](https://ghp.ci/https://raw.githubusercontent.com/xixu-me/MCG/refs/heads/main/script.js) |
+| **GitHub Raw**            | [https://raw.githubusercontent.com/Project-MCG/MCG/refs/heads/main/script.js](https://raw.githubusercontent.com/Project-MCG/MCG/refs/heads/main/script.js) |
+| **jsDelivr**              | [https://cdn.jsdelivr.net/gh/Project-MCG/MCG@main/script.js](https://cdn.jsdelivr.net/gh/Project-MCG/MCG@main/script.js) |
+| **jsDelivr on Cloudflare**| [https://testingcf.jsdelivr.net/gh/Project-MCG/MCG@main/script.js](https://testingcf.jsdelivr.net/gh/Project-MCG/MCG@main/script.js) |
+| **GitHub Proxy**          | [https://ghp.ci/https://raw.githubusercontent.com/Project-MCG/MCG/refs/heads/main/script.js](https://ghp.ci/https://raw.githubusercontent.com/Project-MCG/MCG/refs/heads/main/script.js) |
 
 ## Usage Guide
 
