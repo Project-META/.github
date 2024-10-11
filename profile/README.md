@@ -42,12 +42,12 @@ Choose one of the following URLs to import the MCG script:
 
 | Source | URL |
 | ------------------------- | --- |
-| **GitHub Raw** | [https://raw.githubusercontent.com/Project-MCG/MCG/refs/heads/script/script.js](https://raw.githubusercontent.com/Project-MCG/MCG/refs/heads/script/script.js) |
-| **Xi Xu's Proxy Everything** | [https://proxy.xi-xu.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FProject-MCG%2FMCG%2Frefs%2Fheads%2Fscript%2Fscript.js](https://proxy.xi-xu.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FProject-MCG%2FMCG%2Frefs%2Fheads%2Fscript%2Fscript.js) |
-| **Mirror of Xi Xu's Proxy Everything** | [https://proxy.xixu.cloudns.ch/?url=https%3A%2F%2Fraw.githubusercontent.com%2FProject-MCG%2FMCG%2Frefs%2Fheads%2Fscript%2Fscript.js](https://proxy.xixu.cloudns.ch/?url=https%3A%2F%2Fraw.githubusercontent.com%2FProject-MCG%2FMCG%2Frefs%2Fheads%2Fscript%2Fscript.js) |
-| **jsDelivr** | [https://cdn.jsdelivr.net/gh/Project-MCG/MCG@script/script.js](https://cdn.jsdelivr.net/gh/Project-MCG/MCG@script/script.js) |
-| **jsDelivr on Cloudflare** | [https://testingcf.jsdelivr.net/gh/Project-MCG/MCG@script/script.js](https://testingcf.jsdelivr.net/gh/Project-MCG/MCG@script/script.js) |
-| **GitHub Proxy** | [https://ghp.ci/https://raw.githubusercontent.com/Project-MCG/MCG/refs/heads/script/script.js](https://ghp.ci/https://raw.githubusercontent.com/Project-MCG/MCG/refs/heads/script/script.js) |
+| **GitHub Raw** | [https://raw.githubusercontent.com/Project-MCG/MCG/refs/heads/script/MCG.js](https://raw.githubusercontent.com/Project-MCG/MCG/refs/heads/script/MCG.js) |
+| **Xi Xu's Proxy Everything** | [https://proxy.xi-xu.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FProject-MCG%2FMCG%2Frefs%2Fheads%2Fscript%2FMCG.js](https://proxy.xi-xu.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FProject-MCG%2FMCG%2Frefs%2Fheads%2Fscript%2FMCG.js) |
+| **Mirror of Xi Xu's Proxy Everything** | [https://proxy.xixu.cloudns.ch/?url=https%3A%2F%2Fraw.githubusercontent.com%2FProject-MCG%2FMCG%2Frefs%2Fheads%2Fscript%2FMCG.js](https://proxy.xixu.cloudns.ch/?url=https%3A%2F%2Fraw.githubusercontent.com%2FProject-MCG%2FMCG%2Frefs%2Fheads%2Fscript%2FMCG.js) |
+| **jsDelivr** | [https://cdn.jsdelivr.net/gh/Project-MCG/MCG@script/MCG.js](https://cdn.jsdelivr.net/gh/Project-MCG/MCG@script/MCG.js) |
+| **jsDelivr on Cloudflare** | [https://testingcf.jsdelivr.net/gh/Project-MCG/MCG@script/MCG.js](https://testingcf.jsdelivr.net/gh/Project-MCG/MCG@script/MCG.js) |
+| **GitHub Proxy** | [https://ghp.ci/https://raw.githubusercontent.com/Project-MCG/MCG/refs/heads/script/MCG.js](https://ghp.ci/https://raw.githubusercontent.com/Project-MCG/MCG/refs/heads/script/MCG.js) |
 
 ## Usage Guide
 
