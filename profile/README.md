@@ -77,7 +77,10 @@ Start with a valid ***M***ulti-function network tool configuration file containi
 
 ### 4. Verify the Configuration
 
-Check the client's "Execution Log" or "Script Console" to ensure that the MCG script executed successfully to generate the new configuration. If your base configuration is correct, it will output the number of identified proxies and proxy providers, and the generated configuration in JSON format. If there are errors, refer to the URL in the output and correct your base configuration accordingly.
+Check the client's "Execution Log" or "Script Console" to ensure that the MCG script executed successfully to generate the new configuration:
+
+- If your base configuration is correct, it will output the number of identified proxies and proxy providers, and the generated configuration in JSON format.
+-If there are errors, refer to the URL in the output and correct your base configuration accordingly.
 
 For detailed documentation, refer to the official client documentation.
 
