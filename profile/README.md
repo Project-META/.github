@@ -116,21 +116,33 @@ Adjust `generalConfig` settings like:
 - `log-level`: Set logging level (`silent`, `error`, `warning`, `info`, `debug`).
 - `ipv6`: Enable/disable IPv6 support.
 
-### 5. **DNS Settings**
+### 5. **DNS**
 
 Modify the `dns` object to change nameservers and DNS policies.
 
-### 6. **Proxy Groups**
+### 6. **Hosts**
 
-Create or modify proxy groups in the `proxyGroups` array.
+Add custom hosts in the `hosts` object.
 
-### 7. **Routing Rules**
+### 7. **Domain Sniffing**
+
+Enable and configure domain sniffing in the `sniffing` object.
+
+### 8. **TUN**
+
+Customize TUN settings in the `tun` object.
+
+### 9. **Proxy Groups (be cautious)**
+
+Customize the `proxyGroups` array for proxy policy you want to use.
+
+### 10. **Routing Rules (be cautious)**
 
 Customize the `rules` array for traffic management.
 
-### 8. **Rule Providers**
+### 11. **Rule Providers (be cautious)**
 
-Add or modify custom rule providers in the `ruleProviders` object.
+Add custom rule providers in the `ruleProviders` object.
 
 For detailed documentation, refer to the official ***M***ulti-function network tool documentation.
 
