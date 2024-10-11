@@ -4,7 +4,7 @@
 
 [![Followers](https://img.shields.io/github/followers/Project-MCG?style=flat-square)](https://github.com/orgs/Project-MCG/followers) [![Stars](https://img.shields.io/github/stars/Project-MCG/MCG?style=flat-square)](https://github.com/Project-MCG/MCG/stargazers) [![Forks](https://img.shields.io/github/forks/Project-MCG/MCG?style=flat-square)](https://github.com/Project-MCG/MCG/forks) [![Watchers](https://img.shields.io/github/watchers/Project-MCG/MCG?style=flat-square)](https://github.com/Project-MCG/MCG/watchers)
 
-[![license](https://img.shields.io/github/license/project-mcg/mcg)](https://github.com/Project-MCG/MCG/blob/main/LICENSE) [![commit activity](https://img.shields.io/github/commit-activity/w/Project-MCG/MCG/hidden)](https://github.com/Project-MCG/MCG/commits/hidden) [![build](https://img.shields.io/github/actions/workflow/status/Project-MCG/MCG/check.yml)](https://github.com/Project-MCG/MCG/actions/workflows/check.yml) [![Sponsor](https://img.shields.io/badge/Sponsor-db61a2)](https://xi-xu.me/#sponsorships)
+[![license](https://img.shields.io/github/license/project-mcg/mcg)](https://github.com/Project-MCG/MCG/blob/main/LICENSE) [![commit activity](https://img.shields.io/github/commit-activity/w/Project-MCG/MCG/script)](https://github.com/Project-MCG/MCG/commits/script) [![build](https://img.shields.io/github/actions/workflow/status/Project-MCG/MCG/check.yml)](https://github.com/Project-MCG/MCG/actions/workflows/check.yml) [![Sponsor](https://img.shields.io/badge/Sponsor-db61a2)](https://xi-xu.me/#sponsorships)
 
 ## Overview
 
@@ -42,12 +42,12 @@ Choose one of the following URLs to import the MCG script:
 
 | Source | URL |
 | ------------------------- | --- |
-| **GitHub Raw** | [https://raw.githubusercontent.com/Project-MCG/MCG/refs/heads/hidden/script.js](https://raw.githubusercontent.com/Project-MCG/MCG/refs/heads/hidden/script.js) |
-| **Xi Xu's Proxy Everything** | [https://proxy.xi-xu.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FProject-MCG%2FMCG%2Frefs%2Fheads%2Fhidden%2Fscript.js](https://proxy.xi-xu.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FProject-MCG%2FMCG%2Frefs%2Fheads%2Fhidden%2Fscript.js) |
-| **Mirror of Xi Xu's Proxy Everything** | [https://proxy.xixu.cloudns.ch/?url=https%3A%2F%2Fraw.githubusercontent.com%2FProject-MCG%2FMCG%2Frefs%2Fheads%2Fhidden%2Fscript.js](https://proxy.xixu.cloudns.ch/?url=https%3A%2F%2Fraw.githubusercontent.com%2FProject-MCG%2FMCG%2Frefs%2Fheads%2Fhidden%2Fscript.js) |
-| **jsDelivr** | [https://cdn.jsdelivr.net/gh/Project-MCG/MCG@hidden/script.js](https://cdn.jsdelivr.net/gh/Project-MCG/MCG@hidden/script.js) |
-| **jsDelivr on Cloudflare** | [https://testingcf.jsdelivr.net/gh/Project-MCG/MCG@hidden/script.js](https://testingcf.jsdelivr.net/gh/Project-MCG/MCG@hidden/script.js) |
-| **GitHub Proxy** | [https://ghp.ci/https://raw.githubusercontent.com/Project-MCG/MCG/refs/heads/hidden/script.js](https://ghp.ci/https://raw.githubusercontent.com/Project-MCG/MCG/refs/heads/hidden/script.js) |
+| **GitHub Raw** | [https://raw.githubusercontent.com/Project-MCG/MCG/refs/heads/script/script.js](https://raw.githubusercontent.com/Project-MCG/MCG/refs/heads/script/script.js) |
+| **Xi Xu's Proxy Everything** | [https://proxy.xi-xu.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FProject-MCG%2FMCG%2Frefs%2Fheads%2Fscript%2Fscript.js](https://proxy.xi-xu.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FProject-MCG%2FMCG%2Frefs%2Fheads%2Fscript%2Fscript.js) |
+| **Mirror of Xi Xu's Proxy Everything** | [https://proxy.xixu.cloudns.ch/?url=https%3A%2F%2Fraw.githubusercontent.com%2FProject-MCG%2FMCG%2Frefs%2Fheads%2Fscript%2Fscript.js](https://proxy.xixu.cloudns.ch/?url=https%3A%2F%2Fraw.githubusercontent.com%2FProject-MCG%2FMCG%2Frefs%2Fheads%2Fscript%2Fscript.js) |
+| **jsDelivr** | [https://cdn.jsdelivr.net/gh/Project-MCG/MCG@script/script.js](https://cdn.jsdelivr.net/gh/Project-MCG/MCG@script/script.js) |
+| **jsDelivr on Cloudflare** | [https://testingcf.jsdelivr.net/gh/Project-MCG/MCG@script/script.js](https://testingcf.jsdelivr.net/gh/Project-MCG/MCG@script/script.js) |
+| **GitHub Proxy** | [https://ghp.ci/https://raw.githubusercontent.com/Project-MCG/MCG/refs/heads/script/script.js](https://ghp.ci/https://raw.githubusercontent.com/Project-MCG/MCG/refs/heads/script/script.js) |
 
 ## Usage Guide
 
