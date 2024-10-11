@@ -1,5 +1,11 @@
 # MCG: Configuration Generator (MCG)
 
+[![MCG](https://img.shields.io/badge/MCG%3A_Configuration_Generator-MCG-000000)](https://github.com/Project-MCG)
+
+[![license](https://img.shields.io/github/license/project-mcg/mcg)](https://github.com/Project-MCG/MCG/blob/main/LICENSE) [![commit activity](https://img.shields.io/github/commit-activity/w/Project-MCG/MCG/hidden)](https://github.com/Project-MCG/MCG/commits/hidden)
+
+[![Followers](https://img.shields.io/github/followers/Project-MCG)](https://github.com/Project-MCG) [![Stars](https://img.shields.io/github/stars/Project-MCG/MCG)](https://github.com/Project-MCG/MCG) [![Forks](https://img.shields.io/github/forks/Project-MCG/MCG)](https://github.com/Project-MCG/MCG) [![Watchers](https://img.shields.io/github/watchers/Project-MCG/MCG)](https://github.com/Project-MCG/MCG)
+
 ## Overview
 
 ***M***CG is a JavaScript-based project that simplifies and optimizes the configuration of the ***M***ulti-function network tool — a cross-platform, rule-based utility for managing network and application traffic. It provides extensive support for advanced features and custom configurations.
