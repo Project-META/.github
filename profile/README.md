@@ -98,7 +98,7 @@ Modify the `services` array to add or remove services:
 
 - `name`: Service name.
 - `icon`: URL of the service icon.
-- `alias`: Must be set to the rule set file name when the rule set file name is inconsistent with the name.
+- `alias`: Must be set to the rule set file name when inconsistent with the name.
 
 ### 3. **Locations**
 
