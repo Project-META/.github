@@ -134,7 +134,7 @@ Customize TUN settings in the `tun` object.
 
 ### 9. **Proxy Groups (be cautious)**
 
-Customize the `proxyGroups` array for proxy policy you want to use.
+Customize the `proxyGroups` array to set proxy strategy according to actual needs.
 
 ### 10. **Routing Rules (be cautious)**
 
