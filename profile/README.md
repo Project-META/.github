@@ -144,7 +144,7 @@ Customize the `rules` array for traffic management.
 
 Add custom rule providers in the `ruleProviders` object.
 
-For detailed documentation, refer to the official ***M***ulti-function network tool documentation.
+It is strongly recommended to refer to the official documentation of the ***M***ulti-function network tool when customizing MCG scripts, especially the areas marked "be cautious".
 
 ## Requirements
 
