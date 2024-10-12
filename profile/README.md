@@ -82,7 +82,7 @@ Check the client's "Execution Log" or "Script Console" to ensure that the MCG sc
 - If your base configuration is correct, it will output the number of identified proxies and proxy providers, and the generated configuration in JSON format.
 - If there are errors, correct your basic configuration according to the error and the URL in the output.
 
-For other clients, please refer to the corresponding official client documentation.
+For other clients, please refer to the official documentation of the corresponding clients.
 
 ## Customization Guide
 
