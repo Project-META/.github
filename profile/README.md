@@ -20,7 +20,7 @@
   - Configurable DNS settings including fake IP, filtering, and custom policies.
 - **Proxy Group Management**:
   - Various proxy group types (e.g., Auto, Fallback, Load Balancing).
-  - Automatic grouping for services and locations.
+  - Automatic grouping for custom services and locations.
 - **Intelligent Routing Rules**:
   - Rule-based routing for diverse services and applications.
   - Integration with popular rule providers.
