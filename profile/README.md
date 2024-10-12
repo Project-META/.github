@@ -97,8 +97,8 @@ Change the `BASE_ICON_SET_URL` or `LOCATION_ICON_SET_URL` constants to use a dif
 Modify the `services` array to add or remove services:
 
 - `name`: Service name.
-- `alias`: Must be set to the rule set file name when the rule set file name is inconsistent with the name.
 - `icon`: URL of the service icon.
+- `alias`: Must be set to the rule set file name when the rule set file name is inconsistent with the name.
 
 ### 3. **Locations**
 
