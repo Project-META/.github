@@ -64,7 +64,7 @@ Start with a valid ***M***ulti-function network tool configuration file containi
   2. Import the MCG script via one of the accessible URLs above.
   3. Click the three dots on the script's card, click "Edit File", edit and save the script, if needed.
   
-- **For Other Clients (e.g., C.V.)**:
+- **For C.V.**:
   1. Navigate to the "Profiles" page.
   2. Visit one of the above URLs, select all, and copy to get the current MCG script content.
   3. Add MCG script content to the editor opened by double-clicking the "Global Extend Script" card.
@@ -73,7 +73,7 @@ Start with a valid ***M***ulti-function network tool configuration file containi
 ### 3. Apply and Update Configuration
 
 - For M.P., click the three dots on the script's card, click "Edit Info", turn on the "Globally Enabled" option, and save.
-- For other clients, click "Reactivate Profiles" or similar buttons.
+- For C.V., click "Reactivate Profiles" or similar buttons.
 
 ### 4. Verify the Configuration
 
