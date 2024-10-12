@@ -90,7 +90,7 @@ MCG is highly customizable. Below are some key areas you can modify:
 
 ### 1. **Icon Set URL**
 
-Change the `BASE_ICON_SET_URL` or `LOCATION_ICON_SET_URL` constant to use a different icon set.
+Change the `BASE_ICON_SET_URL` or `LOCATION_ICON_SET_URL` constant to use different icon sets.
 
 ### 2. **Services**
 
