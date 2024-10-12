@@ -12,7 +12,7 @@
 
 ## Key Features
 
-- **Customizable Icon Set**: Import an icon set from a CDN to visually represent services and locations.
+- **Customizable Icon Sets**: Import two icon sets to visually represent services and locations.
 - **Flexible Service Configuration**: Easily add, remove, or modify services, including custom names and icons.
 - **Location Filters**: Use country-specific filters and custom icons for detailed location configuration.
 - **Advanced DNS Management**:
@@ -90,7 +90,7 @@ MCG is highly customizable. Below are some key areas you can modify:
 
 ### 1. **Icon Set URL**
 
-Change the `ICON_SET_URL` constant to use a different icon set.
+Change the `BASE_ICON_SET_URL` or `LOCATION_ICON_SET_URL` constant to use a different icon set.
 
 ### 2. **Services**
 
