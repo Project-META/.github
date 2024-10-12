@@ -105,8 +105,8 @@ Modify the `services` array to add or remove services:
 Customize the `locations` array to define geographical locations:
 
 - `name`: Location name.
-- `filter`: Regex pattern for matching.
 - `icon`: URL of the location icon.
+- `filter`: Regex pattern for matching.
 
 ### 4. **General Configuration**
 
