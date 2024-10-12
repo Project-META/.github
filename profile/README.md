@@ -12,7 +12,7 @@
 
 ## Key Features
 
-- **Customizable Icon Sets**: Import two icon sets to visually represent services and locations.
+- **Powerful icon support**: Import two icon sets to visually represent services and locations, plus provide favicon generation capabilities.
 - **Flexible Service Configuration**: Easily add, remove, or modify services, including custom names and icons.
 - **Location Filters**: Use country-specific filters and custom icons for detailed location configuration.
 - **Advanced DNS Management**:
