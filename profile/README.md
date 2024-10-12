@@ -73,7 +73,7 @@ Start with a valid ***M***ulti-function network tool configuration file containi
 ### 3. Apply and Update Configuration
 
 - For M.P., click the three dots on the script's card, click "Edit Info", turn on the "Globally Enabled" option, and save.
-- For C.V., click "Reactivate Profiles" or similar buttons.
+- For C.V., click "Reactivate Profiles" button.
 
 ### 4. Verify the Configuration
 
