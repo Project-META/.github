@@ -160,7 +160,7 @@ It is strongly recommended to refer to the official documentation of the ***M***
 5. Ensure compliance with relevant licenses and legal regulations.
 6. No endorsement of third-party hardware/software.
 7. User modifications are their own responsibility.
-8. Terms may change at any time. By using this content, you agree to these terms.
+8. Terms may change at any time. By using this project, you agree to these terms.
 
 ## License
 
