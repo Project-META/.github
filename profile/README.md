@@ -14,7 +14,7 @@
 
 - **Powerful Icon Support**: Imports two icon sets to visually represent all proxy groups, and provides favicon extraction capabilities.
 - **Flexible Service Configuration**: Easily add, remove, or modify services, including custom names and icons.
-- **Location Filters**: Use country-specific filters and custom icons for detailed location configuration.
+- **Precise Location Filters**: Use country-specific filters to cluster each proxy into a corresponding location proxy group with a custom icon, so that other proxy groups contain only the lowest latency proxies in each location proxy group as representatives for that location for you to choose from.
 - **Advanced DNS Management**:
   - Supports Chinese and international nameservers.
   - Configurable DNS settings including fake IP, filtering, and custom policies.
