@@ -1,4 +1,4 @@
-# MCG: Configuration Generator (MCG) [![Sponsor](https://img.shields.io/badge/Sponsor-db61a2)](https://xi-xu.me/#sponsorships)
+# META Enhances Tailored Automation (META) [![Sponsor](https://img.shields.io/badge/Sponsor-db61a2)](https://xi-xu.me/#sponsorships)
 
 [![MCG](https://img.shields.io/badge/MCG%3A_Configuration_Generator-MCG-000000)](https://github.com/Project-MCG)
 
