@@ -1,6 +1,6 @@
 # META Enhances Tailored Automation (META) [![Sponsor](https://img.shields.io/badge/Sponsor-db61a2)](https://xi-xu.me/#sponsorships)
 
-[![META](https://img.shields.io/badge/META%3A_Configuration_Generator-META-000000)](https://github.com/Project-META)
+[![META](https://img.shields.io/badge/META_Enhances_Tailored_Automation-META-000000)](https://github.com/Project-META)
 
 [![Followers](https://img.shields.io/github/followers/Project-META?style=flat-square)](https://github.com/orgs/Project-META/followers) [![Stars](https://img.shields.io/github/stars/Project-META/META?style=flat-square)](https://github.com/Project-META/META/stargazers) [![Forks](https://img.shields.io/github/forks/Project-META/META?style=flat-square)](https://github.com/Project-META/META/forks) [![Watchers](https://img.shields.io/github/watchers/Project-META/META?style=flat-square)](https://github.com/Project-META/META/watchers)
 
