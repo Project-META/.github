@@ -36,7 +36,7 @@ So, what exactly does the Multi-functional network tool refer to? Well, if you a
 
 ## Demo
 
-***A demo that use META to generate a configuration for the Multi-function network tool is available at 👉 [https://github.com/user-attachments/assets/20f69597-f637-4198-86c9-b11a1a520ed3](https://github.com/user-attachments/assets/20f69597-f637-4198-86c9-b11a1a520ed3) 👈.***
+***A demo that use META to generate a configuration for the Multi-function network tool is available at 👉 [https://github.com/user-attachments/assets/3bad632d-5a36-4e1d-89bb-3d7d0bc6e306](https://github.com/user-attachments/assets/3bad632d-5a36-4e1d-89bb-3d7d0bc6e306) 👈.***
 
 ## Quick Start
 
