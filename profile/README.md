@@ -1,10 +1,10 @@
 # META Enhances Tailored Automation (META) [![Sponsor](https://img.shields.io/badge/Sponsor-db61a2)](https://xi-xu.me/#sponsorships)
 
-[![MCG](https://img.shields.io/badge/MCG%3A_Configuration_Generator-MCG-000000)](https://github.com/Project-MCG)
+[![META](https://img.shields.io/badge/META%3A_Configuration_Generator-META-000000)](https://github.com/Project-META)
 
-[![Followers](https://img.shields.io/github/followers/Project-MCG?style=flat-square)](https://github.com/orgs/Project-MCG/followers) [![Stars](https://img.shields.io/github/stars/Project-MCG/MCG?style=flat-square)](https://github.com/Project-MCG/MCG/stargazers) [![Forks](https://img.shields.io/github/forks/Project-MCG/MCG?style=flat-square)](https://github.com/Project-MCG/MCG/forks) [![Watchers](https://img.shields.io/github/watchers/Project-MCG/MCG?style=flat-square)](https://github.com/Project-MCG/MCG/watchers)
+[![Followers](https://img.shields.io/github/followers/Project-META?style=flat-square)](https://github.com/orgs/Project-META/followers) [![Stars](https://img.shields.io/github/stars/Project-META/META?style=flat-square)](https://github.com/Project-META/META/stargazers) [![Forks](https://img.shields.io/github/forks/Project-META/META?style=flat-square)](https://github.com/Project-META/META/forks) [![Watchers](https://img.shields.io/github/watchers/Project-META/META?style=flat-square)](https://github.com/Project-META/META/watchers)
 
-[![license](https://img.shields.io/github/license/project-mcg/mcg)](https://github.com/Project-MCG/MCG/blob/main/LICENSE) [![commit activity](https://img.shields.io/github/commit-activity/w/Project-MCG/MCG/script)](https://github.com/Project-MCG/MCG/commits/script) [![build](https://img.shields.io/github/actions/workflow/status/Project-MCG/MCG/check.yml)](https://github.com/Project-MCG/MCG/actions/workflows/check.yml)
+[![license](https://img.shields.io/github/license/Project-META/META)](https://github.com/Project-META/META/blob/main/LICENSE) [![commit activity](https://img.shields.io/github/commit-activity/w/Project-META/META/script)](https://github.com/Project-META/META/commits/script) [![build](https://img.shields.io/github/actions/workflow/status/Project-META/META/check.yml)](https://github.com/Project-META/META/actions/workflows/check.yml)
 
 ## Overview
 
@@ -36,40 +36,40 @@ So, what exactly does the Multi-functional network tool refer to? Well, if you a
 
 ## Demo
 
-***A demo that use MCG to generate a configuration for the Multi-function network tool is available at 👉 [https://github.com/user-attachments/assets/20f69597-f637-4198-86c9-b11a1a520ed3](https://github.com/user-attachments/assets/20f69597-f637-4198-86c9-b11a1a520ed3) 👈.***
+***A demo that use META to generate a configuration for the Multi-function network tool is available at 👉 [https://github.com/user-attachments/assets/20f69597-f637-4198-86c9-b11a1a520ed3](https://github.com/user-attachments/assets/20f69597-f637-4198-86c9-b11a1a520ed3) 👈.***
 
 ## Quick Start
 
-Choose one of the following URLs to import the MCG script:
+Choose one of the following URLs to import the META script:
 
 | Source | URL |
 | ------------------------- | --- |
-| **GitHub Raw** | [https://raw.githubusercontent.com/Project-MCG/MCG/refs/heads/script/MCG.js](https://raw.githubusercontent.com/Project-MCG/MCG/refs/heads/script/MCG.js) |
-| **Xi Xu's Proxy Everything** | [https://proxy.xi-xu.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FProject-MCG%2FMCG%2Frefs%2Fheads%2Fscript%2FMCG.js](https://proxy.xi-xu.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FProject-MCG%2FMCG%2Frefs%2Fheads%2Fscript%2FMCG.js) |
-| **Mirror of Xi Xu's Proxy Everything** | [https://proxy.xixu.cloudns.ch/?url=https%3A%2F%2Fraw.githubusercontent.com%2FProject-MCG%2FMCG%2Frefs%2Fheads%2Fscript%2FMCG.js](https://proxy.xixu.cloudns.ch/?url=https%3A%2F%2Fraw.githubusercontent.com%2FProject-MCG%2FMCG%2Frefs%2Fheads%2Fscript%2FMCG.js) |
-| **jsDelivr** | [https://cdn.jsdelivr.net/gh/Project-MCG/MCG@script/MCG.js](https://cdn.jsdelivr.net/gh/Project-MCG/MCG@script/MCG.js) |
-| **jsDelivr on Cloudflare** | [https://testingcf.jsdelivr.net/gh/Project-MCG/MCG@script/MCG.js](https://testingcf.jsdelivr.net/gh/Project-MCG/MCG@script/MCG.js) |
-| **GitHub Proxy** | [https://ghp.ci/https://raw.githubusercontent.com/Project-MCG/MCG/refs/heads/script/MCG.js](https://ghp.ci/https://raw.githubusercontent.com/Project-MCG/MCG/refs/heads/script/MCG.js) |
+| **GitHub Raw** | [https://raw.githubusercontent.com/Project-META/META/refs/heads/script/META.js](https://raw.githubusercontent.com/Project-META/META/refs/heads/script/META.js) |
+| **Xi Xu's Proxy Everything** | [https://proxy.xi-xu.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FProject-META%2FMCG%2Frefs%2Fheads%2Fscript%2FMCG.js](https://proxy.xi-xu.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FProject-META%2FMCG%2Frefs%2Fheads%2Fscript%2FMCG.js) |
+| **Mirror of Xi Xu's Proxy Everything** | [https://proxy.xixu.cloudns.ch/?url=https%3A%2F%2Fraw.githubusercontent.com%2FProject-META%2FMCG%2Frefs%2Fheads%2Fscript%2FMCG.js](https://proxy.xixu.cloudns.ch/?url=https%3A%2F%2Fraw.githubusercontent.com%2FProject-META%2FMCG%2Frefs%2Fheads%2Fscript%2FMCG.js) |
+| **jsDelivr** | [https://cdn.jsdelivr.net/gh/Project-META/META@script/META.js](https://cdn.jsdelivr.net/gh/Project-META/META@script/META.js) |
+| **jsDelivr on Cloudflare** | [https://testingcf.jsdelivr.net/gh/Project-META/META@script/META.js](https://testingcf.jsdelivr.net/gh/Project-META/META@script/META.js) |
+| **GitHub Proxy** | [https://ghp.ci/https://raw.githubusercontent.com/Project-META/META/refs/heads/script/META.js](https://ghp.ci/https://raw.githubusercontent.com/Project-META/META/refs/heads/script/META.js) |
 
 ## Usage Guide
 
-Follow these steps to use MCG:
+Follow these steps to use META:
 
 ### 1. Prepare Base Configuration
 
 Start with a valid configuration file of the Multi-function network tool containing at least one proxy or proxy provider, typically generated by importing a subscription URL into your client.
 
-### 2. Import MCG Script
+### 2. Import META Script
 
 - **For M.P.**:
   1. Go to "Override" in the sidebar.
-  2. Import the MCG script via one of the accessible URLs above.
+  2. Import the META script via one of the accessible URLs above.
   3. Click the three dots on the script's card, click "Edit File", edit and save the script, if needed.
   
 - **For C.V.**:
   1. Navigate to the "Profiles" page.
-  2. Visit one of the above URLs, select all, and copy to get the current MCG script content.
-  3. Add MCG script content to the editor opened by double-clicking the "Global Extend Script" card.
+  2. Visit one of the above URLs, select all, and copy to get the current META script content.
+  3. Add META script content to the editor opened by double-clicking the "Global Extend Script" card.
   4. Edit before saving if needed.
 
 ### 3. Apply and Update Configuration
@@ -79,7 +79,7 @@ Start with a valid configuration file of the Multi-function network tool contain
 
 ### 4. Verify the Configuration
 
-Check the client's "Execution Log" or "Script Console" to ensure that the MCG script executed successfully to generate the new configuration:
+Check the client's "Execution Log" or "Script Console" to ensure that the META script executed successfully to generate the new configuration:
 
 - If your base configuration is correct, it will output the number of identified proxies and proxy providers, and the generated configuration in JSON format.
 - If there are errors, correct your basic configuration according to the error and the URL in the output.
@@ -88,7 +88,7 @@ For other clients, please refer to the official documentation of the correspondi
 
 ## Customization Guide
 
-MCG is highly customizable. Below are some key areas you can modify:
+META is highly customizable. Below are some key areas you can modify:
 
 ### 1. **Icon Set URL**
 
@@ -146,7 +146,7 @@ Customize the `rules` array for traffic management.
 
 Add custom rule providers in the `ruleProviders` object.
 
-It is strongly recommended to refer to the official documentation of the Multi-function network tool when customizing MCG scripts, especially the areas marked "be cautious".
+It is strongly recommended to refer to the official documentation of the Multi-function network tool when customizing META scripts, especially the areas marked "be cautious".
 
 ## Requirements
 
@@ -166,6 +166,6 @@ It is strongly recommended to refer to the official documentation of the Multi-f
 
 ## License
 
-Copyright &copy; 2024 Project MCG. All rights reserved.
+Copyright &copy; 2024 Project META. All rights reserved.
 
-Licensed under the [GPL-3.0](https://github.com/Project-MCG/MCG/blob/main/LICENSE) license.  
+Licensed under the [GPL-3.0](https://github.com/Project-META/META/blob/main/LICENSE) license.  
