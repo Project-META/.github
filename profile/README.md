@@ -128,7 +128,7 @@ Add custom hosts in the `hosts` object.
 
 ### 7. **Domain Sniffing**
 
-Enable and configure domain sniffing in the `sniffing` object.
+Enable and configure domain sniffing in the `sniffer` object.
 
 ### 8. **TUN**
 
