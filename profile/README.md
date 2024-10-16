@@ -148,7 +148,7 @@ Add custom rule providers in the `ruleProviders` object.
 
 It is strongly recommended to refer to the official documentation of the Multi-function network tool when customizing META scripts, especially the areas marked "be cautious".
 
-## Requirements
+## Prerequisites
 
 - A valid configuration file with at least one proxy or proxy provider defined.
 - A compatible client that supports JavaScript overrides.
