@@ -112,7 +112,7 @@ Customize the `locations` array to define geographical locations:
 
 ### 4. **General Configuration**
 
-Adjust `generalConfig` settings like:
+Adjust `generalConfig` object, for example:
 
 - `allow-lan`: Set to `true` for LAN access.
 - `log-level`: Set logging level (`silent`, `error`, `warning`, `info`, `debug`).
