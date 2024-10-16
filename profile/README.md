@@ -2,7 +2,7 @@
 
 [![META](https://img.shields.io/badge/META_Enhances_Tailored_Automation-META-000000)](https://github.com/Project-META)
 
-[![Followers](https://img.shields.io/github/followers/Project-META?style=flat-square)](https://github.com/orgs/Project-META/followers) [![Stars](https://img.shields.io/github/stars/Project-META/META?style=flat-square)](https://github.com/Project-META/META/stargazers) [![Forks](https://img.shields.io/github/forks/Project-META/META?style=flat-square)](https://github.com/Project-META/META/forks) [![Watchers](https://img.shields.io/github/watchers/Project-META/META?style=flat-square)](https://github.com/Project-META/META/watchers)
+[![Followers](https://img.shields.io/github/followers/Project-META?style=flat)](https://github.com/orgs/Project-META/followers) [![Stars](https://img.shields.io/github/stars/Project-META/META?style=flat)](https://github.com/Project-META/META/stargazers) [![Forks](https://img.shields.io/github/forks/Project-META/META?style=flat)](https://github.com/Project-META/META/forks) [![Watchers](https://img.shields.io/github/watchers/Project-META/META?style=flat)](https://github.com/Project-META/META/watchers)
 
 [![license](https://img.shields.io/github/license/Project-META/META)](https://github.com/Project-META/META/blob/main/LICENSE) [![commit activity](https://img.shields.io/github/commit-activity/w/Project-META/META/script)](https://github.com/Project-META/META/commits/script) [![build](https://img.shields.io/github/actions/workflow/status/Project-META/META/check.yml)](https://github.com/Project-META/META/actions/workflows/check.yml)
 
