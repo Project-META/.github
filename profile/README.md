@@ -1,7 +1,3 @@
-<div align="center">
-Home ｜ <a href="https://f4l.us.kg/META">汉语</a>
-</div>
-
 # META Enhances Tailored Automation (META) [![Sponsor](https://img.shields.io/badge/Sponsor-db61a2)](https://xi-xu.me/#sponsorships)
 
 [![META](https://img.shields.io/badge/META_Enhances_Tailored_Automation-META-000000)](https://github.com/Project-META)
@@ -9,6 +5,10 @@ Home ｜ <a href="https://f4l.us.kg/META">汉语</a>
 [![license](https://img.shields.io/github/license/Project-META/META)](https://github.com/Project-META/META/blob/main/LICENSE) [![commit activity](https://img.shields.io/github/commit-activity/w/Project-META/META/script)](https://github.com/Project-META/META/commits/script) [![build](https://img.shields.io/github/actions/workflow/status/Project-META/META/check.yml)](https://github.com/Project-META/META/actions/workflows/check.yml)
 
 [![Followers](https://img.shields.io/github/followers/Project-META?style=flat)](https://github.com/orgs/Project-META/followers) [![Stars](https://img.shields.io/github/stars/Project-META/META?style=flat)](https://github.com/Project-META/META/stargazers) [![Forks](https://img.shields.io/github/forks/Project-META/META?style=flat)](https://github.com/Project-META/META/forks) [![Watchers](https://img.shields.io/github/watchers/Project-META/META?style=flat)](https://github.com/Project-META/META/watchers) [![Telegram Channel](https://img.shields.io/endpoint?label=Channel&style=flat&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2FProject_META&color=blue)](https://t.me/Project_META)
+
+<div align="center">
+Home ｜ <a href="https://f4l.us.kg/META">汉语</a>
+</div>
 
 ## Overview
 
