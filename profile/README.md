@@ -1,3 +1,7 @@
+<div align="center">
+English ｜ <a href="https://f4l.us.kg/META">汉语</a>
+</div>
+
 # META Enhances Tailored Automation (META) [![Sponsor](https://img.shields.io/badge/Sponsor-db61a2)](https://xi-xu.me/#sponsorships)
 
 [![META](https://img.shields.io/badge/META_Enhances_Tailored_Automation-META-000000)](https://github.com/Project-META)
