@@ -6,9 +6,7 @@
 
 [![Followers](https://img.shields.io/github/followers/Project-META?style=flat)](https://github.com/orgs/Project-META/followers) [![Stars](https://img.shields.io/github/stars/Project-META/META?style=flat)](https://github.com/Project-META/META/stargazers) [![Forks](https://img.shields.io/github/forks/Project-META/META?style=flat)](https://github.com/Project-META/META/forks) [![Watchers](https://img.shields.io/github/watchers/Project-META/META?style=flat)](https://github.com/Project-META/META/watchers) [![Telegram Channel](https://img.shields.io/endpoint?label=Channel&style=flat&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2FProject_META&color=blue)](https://t.me/Project_META)
 
-<div align="center">
-Original ｜ <a href="https://f4l.us.kg/META">Chinese</a>
-</div>
+***Original ｜ [Chinese](https://f4l.us.kg/META)***
 
 ## Overview
 
