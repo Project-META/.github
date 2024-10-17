@@ -1,5 +1,5 @@
 <div align="center">
-English ｜ <a href="https://f4l.us.kg/META">汉语</a>
+Home ｜ <a href="https://f4l.us.kg/META">汉语</a>
 </div>
 
 # META Enhances Tailored Automation (META) [![Sponsor](https://img.shields.io/badge/Sponsor-db61a2)](https://xi-xu.me/#sponsorships)
