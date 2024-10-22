@@ -6,7 +6,7 @@
 
 [![license](https://img.shields.io/github/license/Project-META/META)](https://github.com/Project-META/META/blob/main/LICENSE) [![build](https://img.shields.io/github/actions/workflow/status/Project-META/META/check.yml)](https://github.com/Project-META/META/actions/workflows/check.yml)  [![Telegram Channel](https://img.shields.io/endpoint?label=Channel&style=flat&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2FProject_META&color=blue)](https://t.me/Project_META)
 
-**Original ｜ [Chinese](https://f4l.us.kg/META)**
+**Original ｜ [Chinese](https://t.me/Project_META/12)**
 
 ## Overview
 
