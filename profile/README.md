@@ -27,7 +27,7 @@ So, what exactly does the Multi-functional network tool refer to? Well, if you a
   - Automatic grouping for custom services and locations.
 - **Intelligent Routing Rules**:
   - Rule-based routing for diverse services and applications.
-  - Integration with [Rulesets in MRS Format](https://github.com/Project-META/rules-mrs) and the official MRS formatted rulesets of the Multi-function network tool.
+  - Integration with our carefully crafted [Rulesets in MRS Format](https://github.com/Project-META/rules-mrs) and the official MRS formatted rulesets of the Multi-function network tool.
 - **Seamless Rule Provider Integration**: Set up and maintain rule providers automatically with regular updates.
 - **Extensible Architecture**: Add new services, locations, or modify existing configurations easily.
 - **Performance Optimization**: Includes lazy loading, configurable health checks, and optimized rule updates.
