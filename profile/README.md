@@ -26,7 +26,7 @@ So, what exactly does the Multi-functional network tool refer to? Well, if you a
   - **Enhanced DNS Settings**: Supports both Chinese and international nameservers, with options for DNS over HTTPS (DoH) for improved privacy and security.
   - **Fake IP Mode**: Utilize fake IP ranges to enhance privacy and prevent DNS leaks, with customizable filters to exclude specific domains.
 - **Robust Rule Management**
-  - **Integration with MRS format rulesets**: Seamlessly integrates with our meticulously designed [Rulesets in MRS Format](https://github.com/Project-META/rules-mrs) and the official MRS format rulesets of the Multi-function network tool. MRS format rulesets are compact and offer more efficient matching, enhancing performance.
+  - **Integration with MRS format rulesets**: Seamlessly integrates with our meticulously designed ***[Rulesets in MRS Format](https://github.com/Project-META/rules-mrs)*** and the official MRS format rulesets of the Multi-function network tool. MRS format rulesets are compact and offer more efficient matching, enhancing performance.
   - **Service Rules**: Generate rules for each service to ensure traffic is routed according to predefined policies.
   - **Rule Providers**: Integrate with external rule providers to keep your configuration up-to-date with the latest domain and IP rules.
 - **Flexible Configuration Options**
