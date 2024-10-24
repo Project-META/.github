@@ -16,25 +16,28 @@ So, what exactly does the Multi-functional network tool refer to? Well, if you a
 
 ## Key Features
 
-- **Powerful Icon Support**: Imports two icon sets to visually represent all proxy groups, and provides favicon extraction capabilities.
-- **Flexible Service Configuration**: Easily add, remove, or modify services, including custom names and icons.
-- **Precise Location Filters**: Use country-specific filters to cluster each proxy into a corresponding location proxy group with a custom icon, so that other proxy groups contain only the lowest latency proxies as representatives for that location to choose from.
-- **Advanced DNS Management**:
-  - Supports Chinese and international nameservers.
-  - Configurable DNS settings including fake IP, filtering, and custom policies.
-- **Proxy Group Management**:
-  - Various proxy group types (e.g., Auto, Fallback, Load Balancing).
-  - Automatic grouping for custom services and locations.
-- **Intelligent Routing Rules**:
-  - Rule-based routing for diverse services and applications.
-  - Integration with our carefully crafted [Rulesets in MRS Format](https://github.com/Project-META/rules-mrs) and the official MRS formatted rulesets of the Multi-function network tool.
-- **Seamless Rule Provider Integration**: Set up and maintain rule providers automatically with regular updates.
-- **Extensible Architecture**: Add new services, locations, or modify existing configurations easily.
-- **Performance Optimization**: Includes lazy loading, configurable health checks, and optimized rule updates.
-- **Customizable TUN Mode**: Configure TUN mode for improved compatibility and performance.
-- **Privacy and Ad-Blocking**: Integrated rules for blocking ads and trackers.
-- **Automatic Updates**: Enable auto-updates for GeoIP and GeoSite data.
-- **Compatibility**: Supports the Multi-functional network tool clients, enhancing normal configurations.
+- **Dynamic Service and Location Management**
+  - **Service Configuration**: Easily manage a wide array of services with customizable icons and aliases. Services are defined with a flexible structure that allows for quick updates and additions.
+  - **Location-Based Policies**: Implement location-specific rules and icons, supporting a wide range of countries and regions. This feature allows for precise traffic management based on geographic location.
+- **Advanced Proxy Group Management**
+  - **Custom Proxy Groups**: Create and manage proxy groups with various strategies such as `select`, `url-test`, `fallback`, and `load-balance`. This allows for optimized routing and failover strategies.
+  - **Service and Location Proxy Groups**: Automatically generate proxy groups for services and locations, ensuring that traffic is routed through the most appropriate channels.
+- **Comprehensive DNS Configuration**
+  - **Enhanced DNS Settings**: Supports both Chinese and international nameservers, with options for DNS over HTTPS (DoH) for improved privacy and security.
+  - **Fake IP Mode**: Utilize fake IP ranges to enhance privacy and prevent DNS leaks, with customizable filters to exclude specific domains.
+- **Robust Rule Management**
+  - **Integration with MRS format rulesets**: Seamlessly integrates with our meticulously designed [Rulesets in MRS Format](https://github.com/Project-META/rules-mrs) and the official MRS format rulesets of the Multi-function network tool. MRS format rulesets are compact and offer more efficient matching, enhancing performance.
+  - **Service Rules**: Generate rules for each service to ensure traffic is routed according to predefined policies.
+  - **Rule Providers**: Integrate with external rule providers to keep your configuration up-to-date with the latest domain and IP rules.
+- **Flexible Configuration Options**
+  - **General Configuration**: Set global options such as logging levels, LAN access, and IPv6 support. These settings provide a foundation for customizing the tool to fit specific needs.
+  - **TUN and Sniffer Support**: Enable TUN mode for advanced routing capabilities and domain sniffing for enhanced traffic analysis.
+- **Error Handling and Validation**
+  - **Configuration Validation**: Built-in validation functions ensure that the configuration is correct and complete before applying changes, reducing the risk of errors.
+  - **Detailed Error Reporting**: Provides clear and informative error messages to assist in troubleshooting and configuration adjustments.
+- **Extensible and Customizable**
+  - **Open Source and Community-Driven**: As an open-source project, META encourages community contributions and customization, allowing users to tailor the tool to their specific requirements.
+  - **Modular Design**: The codebase is structured to allow easy integration of new features and services, making it adaptable to future needs.
 
 ## Demo
 
